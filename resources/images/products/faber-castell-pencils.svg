@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="A tin of graphite pencils in a range of grades">
+    <rect width="400" height="400" fill="#eef2ff"/>
+    <ellipse cx="200" cy="336" rx="130" ry="16" fill="#1e293b" opacity=".07"/>
+
+    <!-- Open tin lid behind -->
+    <path d="M64 200 L336 200 L318 122 L82 122 Z" fill="#cbd5e1"/>
+    <path d="M74 192 L326 192 L310 130 L90 130 Z" fill="#e2e8f0"/>
+
+    <!-- Pencils fanned inside the tin -->
+    <g>
+        <g transform="translate(112 214) rotate(-12)">
+            <rect x="-11" y="-118" width="22" height="196" rx="3" fill="#334155"/>
+            <rect x="-11" y="-118" width="7" height="196" fill="#475569"/>
+            <path d="M-11 78 L11 78 L0 112 Z" fill="#f1d9b5"/>
+            <path d="M-4 96 L4 96 L0 112 Z" fill="#1e293b"/>
+        </g>
+        <g transform="translate(156 210) rotate(-6)">
+            <rect x="-11" y="-118" width="22" height="196" rx="3" fill="#1e293b"/>
+            <rect x="-11" y="-118" width="7" height="196" fill="#334155"/>
+            <path d="M-11 78 L11 78 L0 112 Z" fill="#f1d9b5"/>
+            <path d="M-4 96 L4 96 L0 112 Z" fill="#0f172a"/>
+        </g>
+        <g transform="translate(200 208)">
+            <rect x="-11" y="-118" width="22" height="196" rx="3" fill="#334155"/>
+            <rect x="-11" y="-118" width="7" height="196" fill="#475569"/>
+            <path d="M-11 78 L11 78 L0 112 Z" fill="#f1d9b5"/>
+            <path d="M-4 96 L4 96 L0 112 Z" fill="#1e293b"/>
+        </g>
+        <g transform="translate(244 210) rotate(6)">
+            <rect x="-11" y="-118" width="22" height="196" rx="3" fill="#1e293b"/>
+            <rect x="-11" y="-118" width="7" height="196" fill="#334155"/>
+            <path d="M-11 78 L11 78 L0 112 Z" fill="#f1d9b5"/>
+            <path d="M-4 96 L4 96 L0 112 Z" fill="#0f172a"/>
+        </g>
+        <g transform="translate(288 214) rotate(12)">
+            <rect x="-11" y="-118" width="22" height="196" rx="3" fill="#334155"/>
+            <rect x="-11" y="-118" width="7" height="196" fill="#475569"/>
+            <path d="M-11 78 L11 78 L0 112 Z" fill="#f1d9b5"/>
+            <path d="M-4 96 L4 96 L0 112 Z" fill="#1e293b"/>
+        </g>
+    </g>
+
+    <!-- Tin base in front -->
+    <rect x="64" y="284" width="272" height="42" rx="10" fill="#94a3b8"/>
+    <rect x="64" y="284" width="272" height="14" rx="7" fill="#cbd5e1"/>
+</svg>

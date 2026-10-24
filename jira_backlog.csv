@@ -1,0 +1,30 @@
+﻿Issue Type,Summary,Description,Priority,Sprint,Story Points
+Epic,Planificación y requisitos,Levantamiento de requisitos y planificación,Alta,Sprint 1,
+Story,Definir requisitos funcionales y no funcionales,Documentar lo que debe hacer la tienda virtual,Alta,Sprint 1,3
+Epic,Base de datos,Modelo de datos del e-commerce,Alta,Sprint 1,
+Story,Diseñar modelo entidad-relación,"Usuarios, productos de sonido, categorías, carrito, pedidos y detalle de pedido",Alta,Sprint 1,3
+Story,Migraciones en Laravel y MySQL,Migraciones y seeders con productos de sonido de prueba,Alta,Sprint 1,3
+Epic,Diseño UI/UX,Prototipo de la tienda,Media,Sprint 1,
+Story,Prototipo de pantallas en Figma,"Inicio, catálogo, detalle, carrito y panel admin",Media,Sprint 1,5
+Epic,Backend,"Laravel 12: rutas, controladores y modelos",Alta,Sprint 2,
+Story,Registro e inicio de sesión de usuarios,Autenticación con Laravel y roles administrador/cliente,Alta,Sprint 2,5
+Story,API del catálogo de productos,"Listar, buscar por nombre y categoría (consolas, parlantes, instrumentos, cables), crear, editar y eliminar productos",Alta,Sprint 2,8
+Epic,Frontend,Vistas del cliente,Media,Sprint 2,
+Story,"Vistas de inicio, catálogo y detalle de producto",Plantillas Blade y Tailwind CSS responsivo,Media,Sprint 2,8
+Epic,Compras y pagos,Carrito y pasarela de pagos,Alta,Sprint 3,
+Story,Carrito de compras,"Agregar, quitar y modificar cantidades",Alta,Sprint 3,5
+Story,Pasarela de pagos,Pago en línea de los pedidos,Alta,Sprint 3,8
+Epic,Pedidos e inventario,Gestión de pedidos y stock,Alta,Sprint 3,
+Story,Registro y seguimiento de pedidos,Estados del pedido y historial del cliente,Alta,Sprint 3,5
+Story,Control de inventario,Actualizar stock al confirmar o cancelar pedidos,Media,Sprint 3,3
+Epic,Panel administrativo,Administración y reportes,Media,Sprint 3,
+Story,Panel administrativo,Gestión de productos y pedidos,Media,Sprint 3,5
+Story,Reportes de ventas e inventario,Reportes por fecha y por producto,Baja,Sprint 3,3
+Epic,Integración y pruebas,Unir módulos y probar,Alta,Sprint 4,
+Story,Integración de módulos,"Conectar frontend, backend y base de datos",Alta,Sprint 4,3
+Story,Pruebas funcionales y de seguridad,Casos de prueba y validación de entradas,Alta,Sprint 4,5
+Story,Corrección de errores,Resolver defectos encontrados en pruebas,Alta,Sprint 4,3
+Epic,Cierre,"Capacitación, despliegue y cierre",Media,Sprint 4,
+Story,Capacitación al personal,Manual breve y sesión de uso,Media,Sprint 4,2
+Story,Despliegue en hosting y dominio,Publicación con HTTPS,Media,Sprint 4,3
+Story,Cierre del proyecto,Informe final y lecciones aprendidas,Baja,Sprint 4,2

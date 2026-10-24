@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="A heavy duty metal stapler with a box of staples">
+    <rect width="400" height="400" fill="#f0fdfa"/>
+    <ellipse cx="200" cy="322" rx="136" ry="17" fill="#134e4a" opacity=".08"/>
+
+    <!-- Base -->
+    <path d="M66 276 L318 276 L330 306 L54 306 Z" fill="#334155"/>
+    <rect x="66" y="264" width="252" height="16" rx="6" fill="#475569"/>
+
+    <!-- Anvil plate -->
+    <rect x="82" y="252" width="72" height="14" rx="4" fill="#94a3b8"/>
+
+    <!-- Magazine arm, angled -->
+    <g transform="rotate(-9 200 230)">
+        <rect x="72" y="212" width="252" height="40" rx="14" fill="#0d9488"/>
+        <rect x="72" y="212" width="252" height="14" rx="7" fill="#14b8a6"/>
+        <rect x="286" y="220" width="30" height="24" rx="8" fill="#0f766e"/>
+        <!-- Staple strip visible in the magazine -->
+        <g fill="#cbd5e1">
+            <rect x="110" y="234" width="4" height="14"/><rect x="122" y="234" width="4" height="14"/>
+            <rect x="134" y="234" width="4" height="14"/><rect x="146" y="234" width="4" height="14"/>
+            <rect x="158" y="234" width="4" height="14"/><rect x="170" y="234" width="4" height="14"/>
+        </g>
+    </g>
+
+    <!-- Hinge -->
+    <circle cx="308" cy="264" r="14" fill="#1e293b"/>
+    <circle cx="308" cy="264" r="5" fill="#64748b"/>
+
+    <!-- Box of staples -->
+    <g transform="translate(0 -4)">
+        <rect x="242" y="196" width="86" height="62" rx="6" fill="#f8fafc"/>
+        <rect x="242" y="196" width="86" height="20" rx="6" fill="#0f766e"/>
+        <g stroke="#64748b" stroke-width="4" fill="none">
+            <path d="M258 236 L258 224 L272 224 L272 236"/>
+            <path d="M282 236 L282 224 L296 224 L296 236"/>
+            <path d="M306 236 L306 224 L318 224 L318 236"/>
+        </g>
+    </g>
+</svg>

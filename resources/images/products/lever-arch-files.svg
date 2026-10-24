@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="A row of upright lever arch files">
+    <rect width="400" height="400" fill="#f0f9ff"/>
+    <ellipse cx="200" cy="334" rx="140" ry="16" fill="#0c4a6e" opacity=".08"/>
+
+    <g>
+        <!-- File 1 -->
+        <g transform="translate(60 0)">
+            <rect x="0" y="86" width="58" height="236" rx="5" fill="#0369a1"/>
+            <rect x="0" y="86" width="14" height="236" rx="5" fill="#075985"/>
+            <rect x="10" y="130" width="40" height="62" rx="4" fill="#f8fafc"/>
+            <circle cx="30" cy="230" r="11" fill="none" stroke="#e0f2fe" stroke-width="5"/>
+        </g>
+        <!-- File 2 -->
+        <g transform="translate(126 0)">
+            <rect x="0" y="72" width="58" height="250" rx="5" fill="#0284c7"/>
+            <rect x="0" y="72" width="14" height="250" rx="5" fill="#0369a1"/>
+            <rect x="10" y="118" width="40" height="62" rx="4" fill="#f8fafc"/>
+            <circle cx="30" cy="222" r="11" fill="none" stroke="#e0f2fe" stroke-width="5"/>
+        </g>
+        <!-- File 3 -->
+        <g transform="translate(192 0)">
+            <rect x="0" y="80" width="58" height="242" rx="5" fill="#0c4a6e"/>
+            <rect x="0" y="80" width="14" height="242" rx="5" fill="#082f49"/>
+            <rect x="10" y="126" width="40" height="62" rx="4" fill="#f8fafc"/>
+            <circle cx="30" cy="228" r="11" fill="none" stroke="#e0f2fe" stroke-width="5"/>
+        </g>
+        <!-- File 4, leaning -->
+        <g transform="translate(268 0) rotate(7 29 322)">
+            <rect x="0" y="76" width="58" height="246" rx="5" fill="#0ea5e9"/>
+            <rect x="0" y="76" width="14" height="246" rx="5" fill="#0284c7"/>
+            <rect x="10" y="122" width="40" height="62" rx="4" fill="#f8fafc"/>
+            <circle cx="30" cy="226" r="11" fill="none" stroke="#e0f2fe" stroke-width="5"/>
+        </g>
+    </g>
+
+    <!-- Shelf -->
+    <rect x="46" y="322" width="308" height="12" rx="4" fill="#94a3b8"/>
+</svg>

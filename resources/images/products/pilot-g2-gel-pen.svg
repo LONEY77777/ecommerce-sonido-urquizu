@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="A pack of retractable gel pens">
+    <rect width="400" height="400" fill="#eef2ff"/>
+    <ellipse cx="200" cy="336" rx="128" ry="16" fill="#1e293b" opacity=".07"/>
+
+    <!-- Three standing pens -->
+    <g transform="translate(128 208) rotate(-7)">
+        <rect x="-16" y="-120" width="32" height="68" rx="14" fill="#1e293b"/>
+        <rect x="7" y="-106" width="8" height="44" rx="4" fill="#94a3b8"/>
+        <rect x="-16" y="-58" width="32" height="90" fill="#4f46e5"/>
+        <rect x="-16" y="-58" width="10" height="90" fill="#6366f1"/>
+        <rect x="-15" y="28" width="30" height="32" rx="7" fill="#1e293b"/>
+        <path d="M-12 58 L12 58 L4 90 L-4 90 Z" fill="#cbd5e1"/>
+        <rect x="-2" y="88" width="4" height="12" rx="2" fill="#1e293b"/>
+    </g>
+
+    <g transform="translate(200 200)">
+        <rect x="-16" y="-120" width="32" height="68" rx="14" fill="#1e293b"/>
+        <rect x="7" y="-106" width="8" height="44" rx="4" fill="#94a3b8"/>
+        <rect x="-16" y="-58" width="32" height="90" fill="#4338ca"/>
+        <rect x="-16" y="-58" width="10" height="90" fill="#4f46e5"/>
+        <rect x="-15" y="28" width="30" height="32" rx="7" fill="#1e293b"/>
+        <path d="M-12 58 L12 58 L4 90 L-4 90 Z" fill="#cbd5e1"/>
+        <rect x="-2" y="88" width="4" height="12" rx="2" fill="#1e293b"/>
+    </g>
+
+    <g transform="translate(272 208) rotate(7)">
+        <rect x="-16" y="-120" width="32" height="68" rx="14" fill="#1e293b"/>
+        <rect x="7" y="-106" width="8" height="44" rx="4" fill="#94a3b8"/>
+        <rect x="-16" y="-58" width="32" height="90" fill="#4f46e5"/>
+        <rect x="-16" y="-58" width="10" height="90" fill="#6366f1"/>
+        <rect x="-15" y="28" width="30" height="32" rx="7" fill="#1e293b"/>
+        <path d="M-12 58 L12 58 L4 90 L-4 90 Z" fill="#cbd5e1"/>
+        <rect x="-2" y="88" width="4" height="12" rx="2" fill="#1e293b"/>
+    </g>
+
+    <!-- Ink stroke, as if just written -->
+    <path d="M96 306 C140 288 168 320 210 300 S288 282 316 300" stroke="#4338ca" stroke-width="7"
+          stroke-linecap="round" fill="none" opacity=".55"/>
+</svg>

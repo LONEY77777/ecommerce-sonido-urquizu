@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="An accordion file folder with labelled pockets">
+    <rect width="400" height="400" fill="#f0f9ff"/>
+    <ellipse cx="200" cy="330" rx="134" ry="16" fill="#0c4a6e" opacity=".08"/>
+
+    <!-- Documents peeking above the pockets -->
+    <g>
+        <rect x="120" y="104" width="72" height="96" rx="3" fill="#f8fafc" transform="rotate(-4 156 152)"/>
+        <rect x="180" y="96" width="72" height="104" rx="3" fill="#ffffff" transform="rotate(2 216 148)"/>
+        <rect x="238" y="110" width="72" height="90" rx="3" fill="#f1f5f9" transform="rotate(6 274 155)"/>
+    </g>
+
+    <!-- Accordion pleats -->
+    <g>
+        <path d="M70 176 L330 176 L330 316 L70 316 Z" fill="#0369a1"/>
+        <path d="M70 176 L330 176 L330 196 L70 196 Z" fill="#075985"/>
+        <g stroke="#0284c7" stroke-width="6">
+            <path d="M110 200 L110 312"/>
+            <path d="M150 200 L150 312"/>
+            <path d="M190 200 L190 312"/>
+            <path d="M230 200 L230 312"/>
+            <path d="M270 200 L270 312"/>
+            <path d="M310 200 L310 312"/>
+        </g>
+    </g>
+
+    <!-- Front flap and elastic closure -->
+    <path d="M64 214 L336 214 L336 318 L64 318 Z" fill="#0ea5e9"/>
+    <path d="M64 214 L336 214 L336 230 L64 230 Z" fill="#38bdf8"/>
+    <rect x="188" y="214" width="14" height="104" fill="#0c4a6e"/>
+    <circle cx="195" cy="272" r="16" fill="#e0f2fe"/>
+    <circle cx="195" cy="272" r="6" fill="#0c4a6e"/>
+
+    <!-- Pocket index tabs -->
+    <g fill="#e0f2fe">
+        <rect x="92" y="244" width="52" height="12" rx="6"/>
+        <rect x="248" y="244" width="52" height="12" rx="6"/>
+    </g>
+</svg>

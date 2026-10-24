@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="A wrapped ream of A4 copy paper">
+    <rect width="400" height="400" fill="#fffbeb"/>
+    <ellipse cx="200" cy="332" rx="132" ry="17" fill="#78350f" opacity=".08"/>
+
+    <!-- Loose sheets fanned behind the ream -->
+    <g>
+        <rect x="222" y="96" width="120" height="158" rx="4" fill="#f1f5f9" transform="rotate(9 282 175)"/>
+        <rect x="214" y="90" width="120" height="158" rx="4" fill="#f8fafc" transform="rotate(4 274 169)"/>
+    </g>
+
+    <!-- Ream body -->
+    <rect x="70" y="150" width="216" height="164" rx="8" fill="#ffffff"/>
+    <rect x="70" y="150" width="216" height="164" rx="8" fill="none" stroke="#cbd5e1" stroke-width="2"/>
+
+    <!-- Wrapper band -->
+    <rect x="70" y="186" width="216" height="92" fill="#0284c7"/>
+    <rect x="70" y="186" width="216" height="12" fill="#0369a1"/>
+
+    <!-- Label on the wrapper -->
+    <rect x="98" y="208" width="106" height="48" rx="6" fill="#f8fafc"/>
+    <g fill="#0f172a">
+        <rect x="112" y="220" width="58" height="8" rx="4"/>
+        <rect x="112" y="236" width="40" height="6" rx="3"/>
+    </g>
+    <text x="244" y="242" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#f8fafc" text-anchor="middle">A4</text>
+
+    <!-- Stacked sheet edges -->
+    <g stroke="#e2e8f0" stroke-width="2">
+        <path d="M74 292 L282 292"/>
+        <path d="M74 300 L282 300"/>
+        <path d="M74 308 L282 308"/>
+    </g>
+</svg>

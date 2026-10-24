@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="A stapled dot grid notepad">
+    <rect width="400" height="400" fill="#fffbeb"/>
+    <ellipse cx="200" cy="340" rx="116" ry="15" fill="#78350f" opacity=".08"/>
+
+    <!-- Pad body -->
+    <rect x="102" y="60" width="196" height="268" rx="8" fill="#f97316"/>
+    <rect x="110" y="68" width="180" height="252" rx="4" fill="#fefefe"/>
+
+    <!-- Stapled head band -->
+    <rect x="102" y="60" width="196" height="34" rx="8" fill="#ea580c"/>
+    <g fill="#fed7aa">
+        <rect x="146" y="72" width="18" height="6" rx="3"/>
+        <rect x="236" y="72" width="18" height="6" rx="3"/>
+    </g>
+
+    <!-- Micro-perforation -->
+    <g fill="#fdba74">
+        <circle cx="120" cy="104" r="2"/><circle cx="140" cy="104" r="2"/><circle cx="160" cy="104" r="2"/>
+        <circle cx="180" cy="104" r="2"/><circle cx="200" cy="104" r="2"/><circle cx="220" cy="104" r="2"/>
+        <circle cx="240" cy="104" r="2"/><circle cx="260" cy="104" r="2"/><circle cx="280" cy="104" r="2"/>
+    </g>
+
+    <!-- The dot grid itself -->
+    <g fill="#a5b4fc">
+        <g><circle cx="128" cy="132" r="2.2"/><circle cx="152" cy="132" r="2.2"/><circle cx="176" cy="132" r="2.2"/><circle cx="200" cy="132" r="2.2"/><circle cx="224" cy="132" r="2.2"/><circle cx="248" cy="132" r="2.2"/><circle cx="272" cy="132" r="2.2"/></g>
+        <g><circle cx="128" cy="158" r="2.2"/><circle cx="152" cy="158" r="2.2"/><circle cx="176" cy="158" r="2.2"/><circle cx="200" cy="158" r="2.2"/><circle cx="224" cy="158" r="2.2"/><circle cx="248" cy="158" r="2.2"/><circle cx="272" cy="158" r="2.2"/></g>
+        <g><circle cx="128" cy="184" r="2.2"/><circle cx="152" cy="184" r="2.2"/><circle cx="176" cy="184" r="2.2"/><circle cx="200" cy="184" r="2.2"/><circle cx="224" cy="184" r="2.2"/><circle cx="248" cy="184" r="2.2"/><circle cx="272" cy="184" r="2.2"/></g>
+        <g><circle cx="128" cy="210" r="2.2"/><circle cx="152" cy="210" r="2.2"/><circle cx="176" cy="210" r="2.2"/><circle cx="200" cy="210" r="2.2"/><circle cx="224" cy="210" r="2.2"/><circle cx="248" cy="210" r="2.2"/><circle cx="272" cy="210" r="2.2"/></g>
+        <g><circle cx="128" cy="236" r="2.2"/><circle cx="152" cy="236" r="2.2"/><circle cx="176" cy="236" r="2.2"/><circle cx="200" cy="236" r="2.2"/><circle cx="224" cy="236" r="2.2"/><circle cx="248" cy="236" r="2.2"/><circle cx="272" cy="236" r="2.2"/></g>
+        <g><circle cx="128" cy="262" r="2.2"/><circle cx="152" cy="262" r="2.2"/><circle cx="176" cy="262" r="2.2"/><circle cx="200" cy="262" r="2.2"/><circle cx="224" cy="262" r="2.2"/><circle cx="248" cy="262" r="2.2"/><circle cx="272" cy="262" r="2.2"/></g>
+        <g><circle cx="128" cy="288" r="2.2"/><circle cx="152" cy="288" r="2.2"/><circle cx="176" cy="288" r="2.2"/><circle cx="200" cy="288" r="2.2"/><circle cx="224" cy="288" r="2.2"/><circle cx="248" cy="288" r="2.2"/><circle cx="272" cy="288" r="2.2"/></g>
+    </g>
+</svg>

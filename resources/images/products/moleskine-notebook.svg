@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="A hardcover ruled notebook with an elastic closure">
+    <rect width="400" height="400" fill="#fffbeb"/>
+    <ellipse cx="200" cy="340" rx="118" ry="15" fill="#78350f" opacity=".08"/>
+
+    <!-- Page block peeking out -->
+    <rect x="104" y="70" width="196" height="256" rx="10" fill="#f8fafc"/>
+    <rect x="104" y="70" width="196" height="256" rx="10" fill="none" stroke="#e2e8f0" stroke-width="2"/>
+
+    <!-- Hard cover -->
+    <rect x="96" y="62" width="196" height="256" rx="12" fill="#1c1917"/>
+    <rect x="96" y="62" width="26" height="256" rx="12" fill="#0c0a09"/>
+    <rect x="118" y="62" width="4" height="256" fill="#292524"/>
+
+    <!-- Elastic band -->
+    <rect x="252" y="62" width="12" height="256" fill="#292524"/>
+
+    <!-- Ribbon marker -->
+    <path d="M176 318 L176 366 L188 354 L200 366 L200 318 Z" fill="#d97706"/>
+
+    <!-- Debossed rule lines on the cover -->
+    <g stroke="#44403c" stroke-width="3" stroke-linecap="round" opacity=".8">
+        <path d="M148 214 L228 214"/>
+        <path d="M148 234 L228 234"/>
+        <path d="M148 254 L206 254"/>
+    </g>
+</svg>

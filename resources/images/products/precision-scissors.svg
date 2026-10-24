@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="A pair of titanium bonded precision scissors">
+    <rect width="400" height="400" fill="#f0fdfa"/>
+    <ellipse cx="200" cy="340" rx="112" ry="14" fill="#134e4a" opacity=".08"/>
+
+    <g transform="translate(200 200) rotate(-14)">
+        <!-- Blades -->
+        <path d="M-14 -132 L-2 -6 L-20 4 L-34 -124 Z" fill="#e2e8f0" stroke="#94a3b8" stroke-width="3" stroke-linejoin="round"/>
+        <path d="M14 -132 L2 -6 L20 4 L34 -124 Z" fill="#f1f5f9" stroke="#94a3b8" stroke-width="3" stroke-linejoin="round"/>
+        <!-- Cutting edges catching the light -->
+        <path d="M-16 -126 L-5 -12" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+        <path d="M16 -126 L5 -12" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+
+        <!-- Pivot screw -->
+        <circle cx="0" cy="10" r="13" fill="#64748b"/>
+        <circle cx="0" cy="10" r="5" fill="#e2e8f0"/>
+
+        <!-- Cushioned handles -->
+        <path d="M-6 22 C-46 44 -58 92 -30 118 C-4 142 34 118 26 82 C22 62 8 44 -6 22 Z"
+              fill="none" stroke="#0d9488" stroke-width="17" stroke-linecap="round"/>
+        <path d="M6 22 C46 44 58 92 30 118 C4 142 -34 118 -26 82 C-22 62 -8 44 6 22 Z"
+              fill="none" stroke="#14b8a6" stroke-width="17" stroke-linecap="round"/>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="No product image available">
+    <rect width="400" height="400" fill="#eef2ff"/>
+    <g fill="none" stroke="#818cf8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M150 260 L232 130 L268 154 L186 284 L142 296 Z"/>
+        <path d="M232 130 L268 154"/>
+        <path d="M186 284 L142 296"/>
+        <path d="M118 320 L300 320"/>
+    </g>
+    <text x="200" y="362" font-family="system-ui, sans-serif" font-size="20" fill="#6366f1" text-anchor="middle">StationeryHub</text>
+</svg>

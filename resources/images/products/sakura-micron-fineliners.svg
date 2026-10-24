@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="A set of fineliner pens in six nib widths">
+    <rect width="400" height="400" fill="#eef2ff"/>
+    <ellipse cx="200" cy="336" rx="126" ry="16" fill="#1e293b" opacity=".07"/>
+
+    <!-- Six capped fineliners, nib width growing left to right -->
+    <g>
+        <g transform="translate(112 200)">
+            <rect x="-13" y="-116" width="26" height="152" rx="5" fill="#0f172a"/>
+            <rect x="-13" y="-116" width="26" height="26" rx="5" fill="#4f46e5"/>
+            <rect x="-13" y="-14" width="26" height="10" fill="#e2e8f0"/>
+            <path d="M-10 36 L10 36 L3 74 L-3 74 Z" fill="#334155"/>
+            <rect x="-1" y="72" width="2" height="16" fill="#0f172a"/>
+        </g>
+        <g transform="translate(165 200)">
+            <rect x="-13" y="-116" width="26" height="152" rx="5" fill="#0f172a"/>
+            <rect x="-13" y="-116" width="26" height="26" rx="5" fill="#6366f1"/>
+            <rect x="-13" y="-14" width="26" height="10" fill="#e2e8f0"/>
+            <path d="M-10 36 L10 36 L3 74 L-3 74 Z" fill="#334155"/>
+            <rect x="-1.5" y="72" width="3" height="16" fill="#0f172a"/>
+        </g>
+        <g transform="translate(218 200)">
+            <rect x="-13" y="-116" width="26" height="152" rx="5" fill="#0f172a"/>
+            <rect x="-13" y="-116" width="26" height="26" rx="5" fill="#4338ca"/>
+            <rect x="-13" y="-14" width="26" height="10" fill="#e2e8f0"/>
+            <path d="M-10 36 L10 36 L3 74 L-3 74 Z" fill="#334155"/>
+            <rect x="-2" y="72" width="4" height="16" fill="#0f172a"/>
+        </g>
+        <g transform="translate(271 200)">
+            <rect x="-13" y="-116" width="26" height="152" rx="5" fill="#0f172a"/>
+            <rect x="-13" y="-116" width="26" height="26" rx="5" fill="#818cf8"/>
+            <rect x="-13" y="-14" width="26" height="10" fill="#e2e8f0"/>
+            <path d="M-10 36 L10 36 L3 74 L-3 74 Z" fill="#334155"/>
+            <rect x="-2.5" y="72" width="5" height="16" fill="#0f172a"/>
+        </g>
+    </g>
+
+    <!-- Sample strokes, thin to thick -->
+    <g stroke="#0f172a" stroke-linecap="round" fill="none" opacity=".7">
+        <path d="M98 302 L302 302" stroke-width="2"/>
+        <path d="M98 314 L302 314" stroke-width="4"/>
+        <path d="M98 326 L302 326" stroke-width="7"/>
+    </g>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="A scientific calculator with a natural textbook display">
+    <rect width="400" height="400" fill="#ecfdf5"/>
+    <ellipse cx="200" cy="340" rx="112" ry="14" fill="#064e3b" opacity=".08"/>
+
+    <!-- Slide-on hard case behind -->
+    <rect x="118" y="52" width="168" height="52" rx="10" fill="#94a3b8"/>
+
+    <!-- Body -->
+    <rect x="106" y="64" width="188" height="272" rx="14" fill="#1e293b"/>
+    <rect x="116" y="74" width="168" height="252" rx="10" fill="#334155"/>
+
+    <!-- Solar strip -->
+    <rect x="200" y="86" width="72" height="18" rx="3" fill="#0f172a"/>
+    <g stroke="#475569" stroke-width="2">
+        <path d="M218 86 L218 104"/><path d="M236 86 L236 104"/><path d="M254 86 L254 104"/>
+    </g>
+
+    <!-- Display -->
+    <rect x="128" y="114" width="144" height="62" rx="5" fill="#a7f3d0"/>
+    <g fill="#065f46">
+        <rect x="140" y="128" width="46" height="7" rx="3"/>
+        <rect x="140" y="152" width="26" height="5" rx="2"/>
+        <rect x="172" y="146" width="34" height="4" rx="2"/>
+        <rect x="172" y="156" width="34" height="4" rx="2"/>
+        <rect x="216" y="150" width="42" height="7" rx="3"/>
+    </g>
+
+    <!-- Key grid -->
+    <g fill="#475569">
+        <rect x="128" y="192" width="30" height="20" rx="5"/><rect x="166" y="192" width="30" height="20" rx="5"/>
+        <rect x="204" y="192" width="30" height="20" rx="5"/><rect x="242" y="192" width="30" height="20" rx="5"/>
+
+        <rect x="128" y="220" width="30" height="20" rx="5"/><rect x="166" y="220" width="30" height="20" rx="5"/>
+        <rect x="204" y="220" width="30" height="20" rx="5"/><rect x="242" y="220" width="30" height="20" rx="5"/>
+
+        <rect x="128" y="248" width="30" height="20" rx="5"/><rect x="166" y="248" width="30" height="20" rx="5"/>
+        <rect x="204" y="248" width="30" height="20" rx="5"/><rect x="242" y="248" width="30" height="20" rx="5"/>
+
+        <rect x="128" y="276" width="30" height="20" rx="5"/><rect x="166" y="276" width="30" height="20" rx="5"/>
+        <rect x="204" y="276" width="30" height="20" rx="5"/>
+    </g>
+
+    <!-- Equals key -->
+    <rect x="242" y="276" width="30" height="34" rx="5" fill="#059669"/>
+    <!-- Directional pad -->
+    <circle cx="200" cy="176" r="0" fill="none"/>
+</svg>
